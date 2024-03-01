@@ -7,7 +7,7 @@ This code is used to convert the `.docx` files creates by Google Play Books to a
 1. Open Google Play Books
 2. Tap on your profile on the up right
 3. Open "Play Books settings"
-4. Make sure "Save notes, highlights and bookmarks in Google Drive
+4. Make sure "Save notes, highlights and bookmarks in Google Drive"
 
 ## How to use
 
