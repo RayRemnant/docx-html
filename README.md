@@ -24,7 +24,7 @@ Recently (don't know exactly when) the `.docx` notes have been formatted in such
 
 This new format makes my job easier as there's less code required to categorize the color of the note. But **older notes may not have been updated.** 
 
-In case of error, **edit the notes for the update to take place.**
+In case of error, **open the book and make whatever edit in the notes for the update to take place.**
 
 ### Language
 I have a book in english, but the notes file is in another language. Unfortunately the code takes for granted that the notes are in english, using the titles and color definititions for grouping.
