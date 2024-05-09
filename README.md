@@ -1,6 +1,6 @@
 # Google Play Book Notes to JSON
 
-This code is used to convert the `.docx` files creates by Google Play Books to a `.json` format, more flexible for whatever use.
+This code is used to convert the `.docx` files created by Google Play Books to a `.json` format, more flexible for whatever use.
 
 **Make sure you have enabled the option**:
 
